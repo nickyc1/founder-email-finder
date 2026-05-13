@@ -175,3 +175,12 @@ Stop and report if:
 - Always run a small dry-run on 5-10 rows before flipping to write mode
 
 This structure delivers higher hit-rate and lower cost than pure guessing + verify loops.
+
+## Related skills
+
+| Skill | Relationship |
+|---|---|
+| [`paid-ads-context`](https://github.com/nickyc1/paid-ads-context) | Reads section 1 (ICP) to filter or score prospects before enrichment |
+| [`customer-research`](https://github.com/nickyc1/customer-research) | Provides the interview recruit lists this skill enriches |
+| [`ad-creative`](https://github.com/nickyc1/ad-creative) | Indirect — enriched prospects fuel outbound list-building that complements paid ads |
+| [`n8n-recipes`](https://github.com/nickyc1/n8n-recipes) | The `webhook-lead-enrich-and-route` recipe uses the same waterfall logic embedded in an n8n workflow |
