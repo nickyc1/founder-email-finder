@@ -1,5 +1,9 @@
 # founder-email-finder
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
+
+
 A [Claude Code](https://claude.com/claude-code) skill that enriches a Google Sheet of prospects with verified founder emails.
 
 The opinion: don't guess. Use the best paid people-data source first, fall back to website crawls, only use pattern inference as a last resort. Verify every candidate before writing. Track confidence per row.
